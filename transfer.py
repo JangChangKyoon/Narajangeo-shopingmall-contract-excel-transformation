@@ -315,5 +315,7 @@ button.grid(column=0, row=4)
 
 window.mainloop()
 
+##git upload confirm
+print(dd)
 
 # %%
